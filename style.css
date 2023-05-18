@@ -1,0 +1,66 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.bo {
+  background-image: url(bcm.jpg);
+  background-size: cover;
+}
+.c {
+  margin: 40px auto;
+  width: 2030px;
+}
+.title {
+  margin: 20px auto;
+  margin-top: 100px;
+  display: flex;
+}
+.title div {
+  display: float;
+  color: #ffffff;
+  line-height: 200px;
+  font-family: "Slackey", cursive;
+  margin: 50px;
+}
+.t1 {
+  padding-right: 5px;
+  font-size: 300px;
+  width: 1400px;
+}
+.title .t2 {
+  padding-top: 20px;
+  font-size: 100px;
+}
+.content {
+  width: 2130px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 8px;
+  border: 13px solid #3a3968;
+  margin: 20px;
+  padding: 0px 15px;
+}
+.right {
+  margin: 0px 20px;
+}
+.c1 {
+  display: flex;
+  width: 2076px;
+  font-size: 12px;
+  margin: 30px auto;
+}
+.bottom {
+  margin-bottom: 55px;
+}
+h2 {
+  padding-top: 50px;
+  font-size: 80px;
+  color: #3a3968;
+  font-family: "Noto Sans TC", sans-serif;
+}
+p {
+  padding-top: 10px;
+  font-size: 60px;
+  color: #333333;
+  font-family: "Noto Sans TC", sans-serif;
+  text-align: justify;
+}
